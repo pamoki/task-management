@@ -3,12 +3,13 @@
 ## ドキュメント（PDF）
 
 - [要件定義書]
-- https://github.com/pamoki/task-management/blob/main/%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9.pdf
+  https://github.com/pamoki/task-management/blob/main/%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9.pdf
 - [外部設計書]
-- https://github.com/pamoki/task-management/blob/main/%E5%A4%96%E9%83%A8%E8%A8%AD%E8%A8%88.pdf
+  https://github.com/pamoki/task-management/blob/main/%E5%A4%96%E9%83%A8%E8%A8%AD%E8%A8%88.pdf
 - [操作マニュアル]（画像あり）
-- https://github.com/pamoki/task-management/blob/main/%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%EF%BC%88Mosh%EF%BC%89.pdf
+  https://github.com/pamoki/task-management/blob/main/%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%EF%BC%88Mosh%EF%BC%89.pdf
 - [構築手順書]
+  https://github.com/pamoki/task-management/blob/main/Mosh%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86%E6%9B%B8.pdf
 
 ## 閲覧順
 
