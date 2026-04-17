@@ -2,7 +2,7 @@
 
 ## ドキュメント（PDF）
 
-- [要件定義書]
+- [要件定義書]https://github.com/pamoki/task-management/blob/main/%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9.pdf
 - [外部設計書]
 - [操作マニュアル]（画像あり）
 - [構築手順書]
