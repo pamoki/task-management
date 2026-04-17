@@ -7,6 +7,7 @@
 - [外部設計書]
 - https://github.com/pamoki/task-management/blob/main/%E5%A4%96%E9%83%A8%E8%A8%AD%E8%A8%88.pdf
 - [操作マニュアル]（画像あり）
+- https://github.com/pamoki/task-management/blob/main/%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%EF%BC%88Mosh%EF%BC%89.pdf
 - [構築手順書]
 
 ## 閲覧順
